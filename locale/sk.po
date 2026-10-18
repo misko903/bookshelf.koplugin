@@ -182,7 +182,7 @@ msgstr "Vynulovať %d kníh?"
 #: lib/bookshelf_bulk_actions.lua:285 lib/bookshelf_settings.lua:4134
 #: lib/bookshelf_settings.lua:4177 main.lua:2690
 msgid "Reset"
-msgstr "Vymazať"
+msgstr "Vynulovať"
 
 #: lib/bookshelf_bulk_actions.lua:315 lib/bookshelf_bulk_actions.lua:367
 #: lib/bookshelf_bulk_actions.lua:411
@@ -445,7 +445,7 @@ msgstr "Vložiť ikonu…"
 
 #: lib/bookshelf_chip_editor.lua:707 lib/bookshelf_chip_editor.lua:2055
 msgid "OK"
-msgstr "Akceptovať"
+msgstr "OK"
 
 #: lib/bookshelf_chip_editor.lua:717
 msgid "Shelf label"
@@ -1179,7 +1179,7 @@ msgstr "Wi-Fi"
 
 #: lib/bookshelf_icons_catalogue.lua:42
 msgid "Frontlight"
-msgstr "Nasvietenie/podsvietenie displeja"
+msgstr "Podsvietenie"
 
 #: lib/bookshelf_icons_catalogue.lua:43
 msgid "Night mode"
@@ -1637,7 +1637,7 @@ msgstr "Kurzíva"
 
 #: lib/bookshelf_line_editor.lua:432
 msgid "Regular"
-msgstr "Bežný režim"
+msgstr "Normálne"
 
 #: lib/bookshelf_line_editor.lua:452
 msgid "Size"
@@ -1730,7 +1730,7 @@ msgstr "Táto položka ponuky nie je dostupná"
 
 #: lib/bookshelf_menu_shortcut.lua:315
 msgid "Menu"
-msgstr "Menu"
+msgstr "Ponuka"
 
 #: lib/bookshelf_module_kit.lua:58
 msgid "%1h %2m"
@@ -1903,11 +1903,11 @@ msgstr "Tento katalóg už neexistuje."
 
 #: lib/bookshelf_opds_catalog_editor.lua:33
 msgid "Catalog name"
-msgstr "Meno katalógu"
+msgstr "Názov katalógu"
 
 #: lib/bookshelf_opds_catalog_editor.lua:34
 msgid "Catalog URL"
-msgstr "Katalóg adresa URL"
+msgstr "URL katalógu"
 
 #: lib/bookshelf_opds_catalog_editor.lua:35
 msgid "Username (optional)"
@@ -1923,7 +1923,7 @@ msgstr "Pridať katalóg OPDS"
 
 #: lib/bookshelf_opds_catalog_editor.lua:41
 msgid "Edit OPDS catalog"
-msgstr "Upraviť OPDS katalóg"
+msgstr "Upraviť katalóg OPDS"
 
 #: lib/bookshelf_opds_catalog_editor.lua:67
 msgid "Could not save catalog."
@@ -2246,7 +2246,7 @@ msgstr "Ikona obľúbených"
 #: lib/bookshelf_settings.lua:3514 lib/bookshelf_settings.lua:3541
 #: lib/bookshelf_settings.lua:5040
 msgid "Off"
-msgstr "Vypnutý"
+msgstr "Vypnuté"
 
 #: lib/bookshelf_settings.lua:1099
 msgid "Folders only"
@@ -2455,7 +2455,7 @@ msgstr "Farba textu (% čiernej)"
 
 #: lib/bookshelf_settings.lua:2164
 msgid "Progress bar"
-msgstr "Lišta s indikáciou priebehu"
+msgstr "Ukazovateľ priebehu"
 
 #: lib/bookshelf_settings.lua:2169
 msgid "Progress bar (% black)"
@@ -4022,7 +4022,7 @@ msgstr "Číselné porovnanie"
 
 #: lib/bookshelf_tokens.lua:148
 msgid "If/else"
-msgstr "If/else"
+msgstr "Ak/inak"
 
 #: lib/bookshelf_tokens.lua:149
 msgid "Per-language font: e.g. a Japanese face for ja books, another otherwise"
